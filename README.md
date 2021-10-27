@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Junaed129
 - 👀 I’m interested in Smart Grid , power system , power electronics , renewable energy , IOT , Machine learning
-- 🌱 I’m currently learning PHP , CSS , Java Script
+- 🌱 I’m currently learning GTI Suite for electric vehicle drive train design and motor modelling
 - 💞️ I’m looking to collaboration on Power system , Power Electronics , Electric Vehicles, Renewable Energy , Data Management
 - 📫 How to reach me mail me : junaed.buet@gmail.com  whatsapp number : +8801719408836
 
